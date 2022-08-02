@@ -3,10 +3,21 @@ class MyCircularQueue:
         # Write code here
 
     def enqueue(self, value: int) -> bool:
-        # Write code here
+        if(isfull)
+         return 
+    else
+    rare = (rare + 1)%n
+    size = size + 1
+    return x
 
     def dequeue(self) -> bool:
-        # Write code here
+       if (is empty)
+          return 
+    else
+    x = Q[front]
+    front = (front+1)%n
+    size = size - 1
+    return x
 
     def get_front(self) -> int:
         # Write code here
@@ -15,10 +26,19 @@ class MyCircularQueue:
         # Write code here
 
     def is_empty(self):
-        # Write code here
+        return x
+    else
+    x = Q[front]
+    front = (front+1)%n
+    size = size - 1
+    return x
 
     def is_full(self):
-        # Write code here
+        return x
+    else
+    rare = (rare + 1)%n
+    size = size + 1
+    return x
 
 
 # Do not change the following code
