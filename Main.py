@@ -2,7 +2,7 @@ class MyCircularQueue:
     def __init__(self, size: int):
         # Write code here
 
-    def enqueue(self, value: int) -> bool:
+     def enqueue(self, value: int) -> bool:
         if(isfull)
          return 
     else
